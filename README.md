@@ -1,11 +1,5 @@
 # sjvacansy
 
-папка проекта: /superjob/sjvacansy
-папка venv: /superjob/superjob
-скрипт паука: /superjob/sjvacancy/spiders/SJvacansy.py
-скрипт запуска: /superjob/runner.py
-результат в файле:/superjob/items.json
-
 Запуск из командной строки:
 pythoh runner.py
 
